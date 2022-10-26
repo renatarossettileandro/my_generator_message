@@ -1,6 +1,6 @@
 // MESSAGEM GENERATOR
 //--------------------------------------------------------------//
-// USING FUNCTIONS
+// USING OBJECTS
 //--------------------------------------------------------------//
 const message = {
     _colour: ['pink', 'black', 'white', 'blue', 'gold', 'green', 'red'],
